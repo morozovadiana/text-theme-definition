@@ -1,2 +1,2 @@
 # text-theme-definition
-graduation project "chonese text theme definition"
+graduation project "Chinese text theme definition"
